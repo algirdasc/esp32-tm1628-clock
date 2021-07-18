@@ -11,6 +11,7 @@ Long time ago, I bought "wooden" clock from Aliexpress. I thought it was good pu
 | 3 | GPIO5 | STB
 | 4 | GND | GND
 | 5 | 3V3 | VCC
+
 *Note: PIN1 on the clock is furthest from the opening hole.
 
 I've reused original barrel-type power plug. Just keep in mind, that you need to scratch/remove traces to not provide power to original board. If your ESP keeps rebooting, it might be too long power cable. I had to shorten mine to 30-40cm. ESP32 convienently fit on the back of original board with some hot glue.

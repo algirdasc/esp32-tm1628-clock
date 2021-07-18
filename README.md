@@ -14,7 +14,7 @@ Long time ago, I bought "wooden" clock from [Aliexpress](https://www.aliexpress.
 
 *Note: PIN1 on the clock is furthest from the opening hole.
 
-I've reused original barrel-type power plug. Just keep in mind, that you need to scratch/remove traces to not provide power to original board. If your ESP keeps rebooting, it might be too long power cable. I had to shorten mine to 30-40cm. ESP32 convienently fit on the back of original board with some hot glue.
+I've reused original barrel-type power plug. Just keep in mind, that you need to scratch/remove traces to not provide power to original board. If your ESP keeps rebooting, it might be too long power cable. I had to shorten mine to 30-40cm. ESP32 convienently fit on the back of original board with some hot glue. Also, AFAIK ESP8266 / Wemos / etc. won't work as it does not have internal RTC.
 
 # Pictures
 ![Front view. Dot on the top left shows WiFi status (blink - connecting, solid - connected)](https://github.com/algirdasc/esp32-tm1628-clock/blob/main/images/PXL_20210718_091041986.jpg?raw=true)

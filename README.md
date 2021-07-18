@@ -20,7 +20,8 @@ I've reused original barrel-type power plug. Just keep in mind, that you need to
 ![Front view. Dot on the top left shows WiFi status (blink - connecting, solid - connected)](https://github.com/algirdasc/esp32-tm1628-clock/blob/main/images/PXL_20210718_091041986.jpg?raw=true)
 ![Back view - everything left original](https://raw.githubusercontent.com/algirdasc/esp32-tm1628-clock/2ef13ceda851d19b989a2aa9e025265446dd1471/images/PXL_20210718_091051398.jpg)
 ![Internals](https://github.com/algirdasc/esp32-tm1628-clock/blob/main/images/PXL_20210718_090950436.jpg?raw=true)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d8kvp0go3O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Youtube DEMO](https://youtu.be/d8kvp0go3O0)
 
 # Credits
 BlockThor - https://github.com/BlockThor/TM1628
